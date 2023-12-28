@@ -1,0 +1,23 @@
+.myDiv {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px;
+  padding: 10px;
+  }
+  .gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  }
+  .item {
+  width: 30%;
+  margin: 10px;
+  }
+  .bt{
+    width: 10%;
+    height: 6vh;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+  }
